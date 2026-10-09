@@ -1,0 +1,8 @@
+---
+description: Regras do projeto Sistema Semear
+alwaysApply: true
+---
+Antes de qualquer alteração, leia @MODELO.md e @CLAUDE.md.
+Siga as convenções, as regras RN01–RN13 e o plano de trabalho (seção 9).
+Execute apenas a etapa pedida, rode `mvn test` e pare ao terminar.
+Use somente dados sintéticos (LGPD).

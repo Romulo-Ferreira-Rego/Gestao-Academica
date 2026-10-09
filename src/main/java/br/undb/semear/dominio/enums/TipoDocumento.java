@@ -1,0 +1,15 @@
+package br.undb.semear.dominio.enums;
+
+public enum TipoDocumento {
+    RG,
+    CPF,
+    COMPROVANTE_RESIDENCIA,
+    CERTIDAO_NASCIMENTO,
+    CARTEIRA_VACINACAO,
+    TITULO_ELEITOR,
+    CARTEIRA_TRABALHO,
+    COMPROVANTE_ESCOLARIDADE,
+    FOTO_3X4,
+    DECLARACAO_ADIMPLENCIA,
+    AUTORIZACAO_BUSCA
+}
